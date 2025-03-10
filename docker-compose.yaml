@@ -10,7 +10,7 @@ services:
       POSTGRES_DB: zer0bin
     volumes:
       - postgres_data:/var/lib/postgresql/data
-      - backend/schema.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./backend/schema.sql:/docker-entrypoint-initdb.d/init.sql
 
   backend:
     build:
