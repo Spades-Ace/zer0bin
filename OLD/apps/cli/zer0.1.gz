@@ -17,4 +17,4 @@ $ echo "other instance" | zer0 --instance https://paste-api.b68.dev
 
 $ cat document.md | zer0 --md # Markdown mode
 .SH "SOURCE" 
-https://github.com/BRAVO68WEB/zer0bin
+https://github.com/Spades-Ace/zer0bin

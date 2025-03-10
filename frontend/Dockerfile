@@ -22,8 +22,11 @@ FROM nginx:alpine
 # Copy the built frontend files to the Nginx serving directory
 COPY --from=builder /build /usr/share/nginx/html
 
-# Expose port 80 for serving the frontend
-EXPOSE 80
+# Copy the custom Nginx configuration file
+COPY frontend/nginx.config /etc/nginx/conf.d/default.conf
+
+# Expose ports for both HTTP and HTTPS
+EXPOSE 80 443
 
 # Start Nginx
 CMD ["nginx", "-g", "daemon off;"]

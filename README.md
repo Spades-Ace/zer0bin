@@ -1,24 +1,24 @@
 <div align="center">
 	<a href="https://paste.b68.dev">
-    <img src="https://raw.githubusercontent.com/BRAVO68WEB/zer0bin/main/zer0bin.svg" height="150px"/>
+    <img src="https://raw.githubusercontent.com/Spades-Ace/zer0bin/main/zer0bin.svg" height="150px"/>
 	<br>
-    <img src="https://raw.githubusercontent.com/BRAVO68WEB/zer0bin/main/zer0bin-rainbow.svg" height="100"/>
+    <img src="https://raw.githubusercontent.com/Spades-Ace/zer0bin/main/zer0bin-rainbow.svg" height="100"/>
 	<br>
 	</a>
     Just a place to paste
     <br>
 	<br>
     <p align="center">
-	<a href="https://github.com/BRAVO68WEB/zer0bin/stargazers">
-		<img alt="Stargazers" src="https://custom-icon-badges.herokuapp.com/github/stars/BRAVO68WEB/zer0bin?style=for-the-badge&logo=star&color=f6c177&logoColor=eb6f92&labelColor=191724"></a>
-	<a href="https://github.com/BRAVO68WEB/zer0bin/wiki">
+	<a href="https://github.com/Spades-Ace/zer0bin/stargazers">
+		<img alt="Stargazers" src="https://custom-icon-badges.herokuapp.com/github/stars/Spades-Ace/zer0bin?style=for-the-badge&logo=star&color=f6c177&logoColor=eb6f92&labelColor=191724"></a>
+	<a href="https://github.com/Spades-Ace/zer0bin/wiki">
 		<img alt="Wiki" src="https://custom-icon-badges.herokuapp.com/badge/read_the-wiki-ebbcba?style=for-the-badge&logo=repo&logoColor=eb6f92&labelColor=191724"></a>
- 	<a href="https://github.com/BRAVO68WEB/zer0bin/releases/latest">
-		<img alt="Releases" src="https://img.shields.io/github/release/BRAVO68WEB/zer0bin?style=for-the-badge&logo=github&color=31748f&logoColor=eb6f92&labelColor=191724"/></a>
-	<a href="https://github.com/BRAVO68WEB/zer0bin/blob/main/LICENSE">
-		<img alt="License" src="https://custom-icon-badges.herokuapp.com/github/license/BRAVO68WEB/zer0bin?style=for-the-badge&logo=law&color=c4a7e7&logoColor=eb6f92&labelColor=191724"></a>
-	<a href="https://github.com/BRAVO68WEB/zer0bin/issues">
-		<img alt="Issues" src="https://custom-icon-badges.herokuapp.com/github/issues/BRAVO68WEB/zer0bin?style=for-the-badge&logo=issue-opened&color=9ccfd8&logoColor=eb6f92&labelColor=191724"></a>
+ 	<a href="https://github.com/Spades-Ace/zer0bin/releases/latest">
+		<img alt="Releases" src="https://img.shields.io/github/release/Spades-Ace/zer0bin?style=for-the-badge&logo=github&color=31748f&logoColor=eb6f92&labelColor=191724"/></a>
+	<a href="https://github.com/Spades-Ace/zer0bin/blob/main/LICENSE">
+		<img alt="License" src="https://custom-icon-badges.herokuapp.com/github/license/Spades-Ace/zer0bin?style=for-the-badge&logo=law&color=c4a7e7&logoColor=eb6f92&labelColor=191724"></a>
+	<a href="https://github.com/Spades-Ace/zer0bin/issues">
+		<img alt="Issues" src="https://custom-icon-badges.herokuapp.com/github/issues/Spades-Ace/zer0bin?style=for-the-badge&logo=issue-opened&color=9ccfd8&logoColor=eb6f92&labelColor=191724"></a>
 </p>
     <br>
 </div>
@@ -30,8 +30,8 @@
 # Features
 
 - ✨ Code highlighting and line numbers (default)
-- 📖 Markdown rendering (click the <a href="https://github.com/BRAVO68WEB/zer0bin"><img alt="Markdown" src="https://user-images.githubusercontent.com/44733677/161484749-fdf60750-36ae-4d0a-aaa5-cdcae54fc805.svg" height=18></a> button)
-- 🔥 Single-view pastes (click the <a href="https://github.com/BRAVO68WEB/zer0bin"><img alt="Fire" src="https://user-images.githubusercontent.com/44733677/161485115-c5fccb81-fa21-4e67-88fd-9a6f9dff728e.svg" height=18></a> button)
+- 📖 Markdown rendering (click the <a href="https://github.com/Spades-Ace/zer0bin"><img alt="Markdown" src="https://user-images.githubusercontent.com/44733677/161484749-fdf60750-36ae-4d0a-aaa5-cdcae54fc805.svg" height=18></a> button)
+- 🔥 Single-view pastes (click the <a href="https://github.com/Spades-Ace/zer0bin"><img alt="Fire" src="https://user-images.githubusercontent.com/44733677/161485115-c5fccb81-fa21-4e67-88fd-9a6f9dff728e.svg" height=18></a> button)
 - 🔐 Password protected pastes
 - 📆 Custom expiring pastes
 - ‍🧑‍💻 [CLI Client](apps/cli)
@@ -68,7 +68,7 @@
 
 ### Looking for API reference, self-hosting instructions, and/or benchmarks?
 
-<a href="https://github.com/BRAVO68WEB/zer0bin/wiki">
+<a href="https://github.com/Spades-Ace/zer0bin/wiki">
 		<img alt="Stargazers" src="https://custom-icon-badges.herokuapp.com/badge/read_the-wiki-ebbcba?style=for-the-badge&logo=repo&logoColor=eb6f92&labelColor=191724" height=50></a> -->
 
 # Contributing

@@ -17,7 +17,7 @@ console.log(`
 ▀▀▀ ▀▀▀ ▀ ▀▀ █▄▄█ ▀▀▀  ▀ ▀  ▀ 
 Thank you for using zer0bin!
 If you're reading this message, why not help with development?
-https://github.com/BRAVO68WEB/zer0bin
+https://github.com/Spades-Ace/zer0bin
 `)
 
 let rawContent = ""
