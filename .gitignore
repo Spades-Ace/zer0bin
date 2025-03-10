@@ -4,5 +4,6 @@
 **/dist/
 **/.parcel-cache/
 **/config.json
+**/config.nginx
 .turbo
 notes.txt

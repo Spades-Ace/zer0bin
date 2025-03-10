@@ -1,5 +1,4 @@
 # Replace `example.tld` with your actual domain
-# Replace `/location/of/zer0bin` with the actual path to the frontend build folder
 
 server {
     listen 80;
