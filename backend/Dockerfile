@@ -1,8 +1,8 @@
 FROM rust:1.76.0-alpine
 
-WORKDIR /backend
+WORKDIR /app
 
-COPY . .
+COPY backend .
 
 RUN apk add musl-dev \
     && apk cache clean
