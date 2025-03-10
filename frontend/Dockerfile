@@ -23,7 +23,7 @@ FROM nginx:alpine
 COPY --from=builder /build /usr/share/nginx/html
 
 # Copy the custom Nginx configuration file
-COPY frontend/nginx.config /etc/nginx/conf.d/default.conf
+COPY frontend/config.nginx /etc/nginx/conf.d/default.conf
 
 # Expose ports for both HTTP and HTTPS
 EXPOSE 80 443
