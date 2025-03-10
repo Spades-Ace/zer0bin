@@ -15,12 +15,12 @@ services:
   backend:
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: backend/Dockerfile
     restart: always
     depends_on:
       - db
     ports:
-      - "7788:8000"
+      - "8000:8000"
 
 volumes:
   postgres_data:
