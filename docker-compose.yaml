@@ -10,8 +10,8 @@ services:
       POSTGRES_DB: zer0bin
     volumes:
       - postgres_data:/var/lib/postgresql/data
-      - ./schema.sql:/docker-entrypoint-initdb.d/init.sql
-    
+      - backend/schema.sql:/docker-entrypoint-initdb.d/init.sql
+
   backend:
     build:
       context: .
@@ -22,6 +22,15 @@ services:
     ports:
       - "8000:8000"
 
+  # frontend:
+  #   build:
+  #     context: .
+  #     dockerfile: frontend/Dockerfile
+  #   restart: always
+  #   depends_on:
+  #     - backend
+  #   ports:
+  #     - "80:80"
+
 volumes:
   postgres_data:
-    
