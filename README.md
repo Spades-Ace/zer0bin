@@ -25,7 +25,7 @@
 
 # Notice
 
-> This is a fork of [zer0bin](https://github.com/zer0bin-dev/zer0bin) with some modifications and improvements.
+> This is a fork of [zer0bin](https://github.com/BRAVO68WEB/zer0bin) with some modifications and improvements.
 
 # Features
 
